@@ -1,0 +1,9 @@
+Package: ch.mdaus.spotifyfullalbumart
+Name: SpotifyFullAlbumArt
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix the nasty border spotify adds to the now playing album art. Tested on Spotify V 8.5.0.833
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
